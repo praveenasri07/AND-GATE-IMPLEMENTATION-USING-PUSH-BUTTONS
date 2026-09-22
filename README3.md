@@ -27,7 +27,9 @@ Button A                          Button B                 LED Output
 0                                      1                             OFF  
 1                                      0                             OFF  
 1                                      1                             ON  
-![][image1]
+
+![][image1]<img width="1200" height="1600" alt="result3" src="https://github.com/user-attachments/assets/785c7e4e-58fc-4a11-a58e-5007a1c7b1f3" />
+
 
 6\. Working:  
 When neither button or only one button is pressed, the circuit does not provide a complete path for current, so the LED remains OFF. When both buttons are pressed, the circuit is completed and current flows through the LED, making it ON.
